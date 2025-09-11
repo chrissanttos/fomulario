@@ -68,7 +68,6 @@ input:focus{
 }
 
 .btn button:hover{
-    width: 7em ;
     cursor: pointer;
     color: black;
     background-color:rgb(47, 47, 255) ;
@@ -82,7 +81,6 @@ input:focus{
     font-size: 1.4em;
     transition: all 0.7s ease;
     position: relative;
-    text-decoration: none;
     color: #111;
     font-weight: 600;
 }
